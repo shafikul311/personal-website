@@ -13,6 +13,9 @@ body{
     color: orange;
 
 }
+h1 {
+    font-size: 40px;
+}
 .section-area {
     height: 400px;
     display: block;
@@ -29,7 +32,7 @@ body{
 }
 
 .half-width img {
-    width: 90%;
+    width: 80%;
     
 }
 
@@ -138,3 +141,28 @@ body{
     
     
 } 
+
+.social-icon-area {
+    display: inline;
+    width: 25px;
+    
+}
+.social-heading-img {
+    text-align: center;
+}
+
+.social-icon-width {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    padding-bottom: 20px;
+    
+    
+}
+
+footer {
+    text-align: center;
+    padding: 20px 20px;
+    background-color: grey;
+    color: white;
+}
