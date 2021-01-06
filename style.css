@@ -8,6 +8,13 @@ body{
     color: slategray;
 }
 
+.nav-menu {
+    color: grey;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+}
 
 .text-heighlite {
     color: orange;
@@ -47,8 +54,7 @@ h1 {
 }
 
 .work-width-img1 { 
-    float:left;  
-    
+    float:left; 
     width: 30%; 
     height:auto; 
     margin-left: 2%;
@@ -56,13 +62,13 @@ h1 {
 } 
 
 .work-width-img2 { 
-    float:left;  
-   
+    float:left; 
     width:30%; 
     height:auto; 
     margin-left: 2%;
    
 } 
+
 .work-width-img3 { 
     float: right;
     width:30%; 
@@ -70,13 +76,16 @@ h1 {
     margin-right: 2%;
     
 } 
+
 .section-area {
     width: 100%;
     height: 400px;
 }
+
 .img-width {
     width: 95%;
 }
+
 #work-project {
     text-align: center;
     padding-top: 10px;
@@ -92,7 +101,7 @@ h1 {
 
 .work-inquery {
   
-    height: 400px;
+    height: 350px;
     
     position: relative;
 }
