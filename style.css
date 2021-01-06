@@ -57,7 +57,11 @@ h1 {
     float:left; 
     width: 30%; 
     height:auto; 
-    margin-left: 2%;
+    margin-left: 3%;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px grey;
+    padding: 2px;
   
 } 
 
@@ -66,15 +70,23 @@ h1 {
     width:30%; 
     height:auto; 
     margin-left: 2%;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px grey;
+    padding: 2px;
    
 } 
 
 .work-width-img3 { 
     float: right;
     width:30%; 
+
     height:auto; 
     margin-right: 2%;
-    
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px grey;
+    padding: 2px;
 } 
 
 .section-area {
@@ -83,7 +95,7 @@ h1 {
 }
 
 .img-width {
-    width: 95%;
+    width: 90%;
 }
 
 #work-project {
@@ -146,9 +158,6 @@ h1 {
     font-size: 18px;
     color: white;
     padding-left: 70%;
-    
-    
-    
 } 
 
 .social-icon-area {
