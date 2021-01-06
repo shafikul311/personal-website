@@ -39,6 +39,7 @@ body{
     padding: 10ox  10px;
     border-radius: 3px;
     color: papayawhip;
+    cursor: pointer;
     
 }
 
@@ -68,6 +69,7 @@ body{
 } 
 .section-area {
     width: 100%;
+    height: 400px;
 }
 .img-width {
     width: 95%;
@@ -77,9 +79,11 @@ body{
     padding-top: 10px;
     padding-bottom: 20px;
 }
-.project {
+#project {
     background-color: #dfe6e9;
     padding-bottom: 30px;
+    height: 500px;
+    align-items: center;
 
 }
 
@@ -121,15 +125,16 @@ body{
 }
 
 #work-btn {
-    
+    position: absolute;
+    margin-top: 10px;
+    top: 25%;
+    float: right;
    
-    width: auto;
-    height: 50px;
-    
-    
-    
-   
-    color: white;
     text-align: center;
+    font-size: 18px;
+    color: white;
+    padding-left: 70%;
     
-}
+    
+    
+} 
